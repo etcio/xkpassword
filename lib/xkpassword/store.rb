@@ -1,5 +1,5 @@
 class XKPassword::Store
-  SOURCE = 'google-10000-english.txt'
+  SOURCE = 'simple.txt'
 
   attr_reader :data
 
