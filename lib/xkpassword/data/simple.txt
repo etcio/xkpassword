@@ -8,15 +8,15 @@ appear
 approve
 april
 army
-around 
+around
 arrange
 arrive
-artist 
+artist
 august
 baby
 bacon
 baker
-baseball 
+baseball
 basic
 beauty
 beaver
@@ -117,7 +117,7 @@ happen
 happy
 hearing
 history
-hockey 
+hockey
 hotel
 human
 import
@@ -232,7 +232,7 @@ select
 sentence
 server
 shipment
-shoulder 
+shoulder
 shower
 signal
 silent
